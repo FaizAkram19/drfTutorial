@@ -1,0 +1,1 @@
+Learning the Django Rest Framework before I start my portfolio project
